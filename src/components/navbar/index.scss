@@ -1,0 +1,20 @@
+.containerNavBar{
+    min-width: 100vw;
+    min-height: 12vh;
+    .logoContainer, .spaceRight{
+        min-width: 15vw;
+        min-height: 12vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .MenuContainer{
+        min-width: 70vw;
+        min-height: 12vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
+
